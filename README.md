@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola a todos 👋
+- 🌱 Actualmente estoy aprendiendo...
 
 <!--
 **dmarrui/dmarrui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
